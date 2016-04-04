@@ -29,11 +29,6 @@
                                           jcr:primaryType="jnt:translation"
                                           text="&lt;p&gt;tretre&lt;/p&gt;&#xA;"/>
                                 </rich-text>
-                                 <rich-text-1 jcr:primaryType="jnt:bigText">
-                                    <j:translation_en jcr:language="en"
-                                          jcr:primaryType="jnt:translation"
-                                          text="&lt;p&gt;First modif by A&lt;/p&gt;&#xA;"/>
-                                </rich-text-1>                                
                             </pagecontent>
                         </home>
                         <simple jcr:primaryType="jnt:pageTemplate"/>
